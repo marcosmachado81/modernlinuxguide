@@ -1,0 +1,20 @@
+Comandos mais úteis para o systemd
+
+Listar os serviços instalados no host (similar ao chkconfig --list)
+```console
+user@modernlinuxguide:~$ systemctl -l -t service
+```
+
+Verificar os serviços que falharam
+```console
+user@modernlinuxguide:~$ systemctl --failed
+```
+
+Iniciar e habilitar um serviço
+```console
+user@modernlinuxguide:~$ systemctl enable --now [nome do serviço]
+```
+É possível executar comandos remotos
+```console
+user@modernlinuxguide:~$ systemctl -H [host] restart [nome do serviço]
+```
