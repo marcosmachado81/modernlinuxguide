@@ -5,7 +5,7 @@ O objetivo deste guia é auxiliar aqueles que trabalham com linux, sejam SREs ou
 A ideia é que este conteúdo seja no futuro um pequeno guia de referência em portugues para questões pontuais e não como material de leitura (sim, inglês é necessário para nossa profissão, mas o exercício de trazer conteúdo em portugues é interessante)
 
 
-#Conteúdo
+# Conteúdo
 
 Atualmente eu estou compilando o material que tenho e colocando no neste repositório. O objetivo é distribuir os assuntos em:
 
