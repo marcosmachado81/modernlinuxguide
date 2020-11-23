@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Bem-vindo ao guia moderno para Linux
 
-You can use the [editor on GitHub](https://github.com/marcosmachado81/modernlinuxguide/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+O objetivo deste guia é auxiliar aqueles que trabalham com linux, sejam SREs ou DEVOPS, no aprimoramento da administração do sistema. Eu sei que existe o guia foca e que existem muitos materiais disponíveis online abordando o conteúdo aqui relacionado. A ideia é concentrar os principais pontos e sumarizar este conteúdo de forma direta. Inicialmente será um compilado de comandos para análise do sistema, partições, arquivos de log e redes. Após compilar os principais comandos pretendo trazer, em cada área, ferramentas úteis e links interessantes para a expansão dos conceitos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A ideia é que este conteúdo seja no futuro um pequeno guia de referência em portugues para questões pontuais e não como material de leitura (sim, inglês é necessário para nossa profissão, mas o exercício de trazer conteúdo em portugues é interessante)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#Conteúdo
+Atualmente eu estou compilando o material que tenho e colocando no neste repositório. O objetivo é distribuir os assuntos em:
 
-```markdown
-Syntax highlighted code block
+1. Análise de recursos e processos
+2. Sistemas de Arquivos
+3. Trabalhando com Logs
+4. Redes
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcosmachado81/modernlinuxguide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
