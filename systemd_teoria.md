@@ -2,4 +2,6 @@ O systemd padroniza a forma como controlamos os processos no Linux. Ele apresent
 
 Todo o conjunto do systemd vai além de apenas permitir que iniciemos processos/programas no Linux. Ele trás um conjunto de componentes como journal do sistema, agendar jobs, e etc. Abaixo uma imagem que ilustra os componentes do Systemd.
 
-![Systemd (fonte: Wikipedia)](https://en.wikipedia.org/wiki/Systemd#/media/File:Systemd_components.svg?sanitize=true)
+
+![Systemd: Fonte Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Systemd_components.svg/440px-Systemd_components.svg.png "Systemd")  
+*componentes do Systemd: Fonte Wikipedia*
